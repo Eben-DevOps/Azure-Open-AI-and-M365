@@ -1,0 +1,1 @@
+# Helper functions for Microsoft 365 integration
